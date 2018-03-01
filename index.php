@@ -62,7 +62,7 @@
         <?php } ?>
         <form action="index.php" method="post">
           <div class="form-group">
-            <label for="">Username</label><input class="form-control" placeholder="Enter your username" type="text" name="username" id="username">
+            <label for="">Username</label><input class="form-control" placeholder="Enter your username jay" type="text" name="username" id="username">
             <div class="pre-icon os-icon os-icon-user-male-circle"></div>
           </div>
           <div class="form-group">
