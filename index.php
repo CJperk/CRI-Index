@@ -70,7 +70,7 @@
             <div class="pre-icon os-icon os-icon-fingerprint"></div>
           </div>
           <div class="buttons-w">
-            <input type="submit" name="subimt" id="subimt" class="btn btn-primary" value="Log me in" />
+            <input type="submit" name="subimt" id="subimt" class="btn btn-primary submit" value="Log me in" />
 <!--
             <div class="form-check-inline">
               <label class="form-check-label"><input class="form-check-input" type="checkbox">Remember Me</label>
