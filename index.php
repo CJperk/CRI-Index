@@ -66,7 +66,7 @@
             <div class="pre-icon os-icon os-icon-user-male-circle"></div>
           </div>
           <div class="form-group">
-            <label for="">Password</label><input class="form-control" placeholder="Enter your password" type="password" name="password" id="password">
+            <label for="">Password</label><input class="form-control" placeholder="Enter your password here jay" type="password" name="password" id="password">
             <div class="pre-icon os-icon os-icon-fingerprint"></div>
           </div>
           <div class="buttons-w">
